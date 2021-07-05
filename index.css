@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(146, 175, 228);
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    font-family: sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
